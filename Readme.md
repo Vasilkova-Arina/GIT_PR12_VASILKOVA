@@ -105,6 +105,7 @@ code --install-extension davidanson.vscode-markdownlint
 # Создайте тестовый Markdown файл
 cat > test-setup.md << 'EOF'
 # Тест установки ✅
+```
 
 Этот файл создан для **проверки** вашего окружения Markdown.
 
@@ -113,9 +114,7 @@ cat > test-setup.md << 'EOF'
 - [x] Basic formatting
 - [ ] Preview functionality
 
-> Если вы видите этот текст с форматированием - установка успешна!
-EOF
-
+```
 # Откройте файл в редакторе
 code test-setup.md
 ```
