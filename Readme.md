@@ -132,4 +132,4 @@ code test-setup.md
 
 ## Автор 
 Василькова Арина Андреевна
-[Ссылка на мойрепризиторий](https://github.com/Vasilkova-Arina/GIT_PR12_VASILKOVA.git "Прошу к нашему шалашу!")
+[Ссылка на мой репозиторий](https://github.com/Vasilkova-Arina/GIT_PR12_VASILKOVA.git "Прошу к нашему шалашу!")
